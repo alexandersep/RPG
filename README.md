@@ -1,5 +1,5 @@
 # RPG <br>
-Simple text based game with multiple options and a diverging story <br>
+Simple text based game with multiple options and a diverging story running on Java. <br>
 Contributers: Silent, Razon
 # Features: <br>
 4 dialogue/options <br>
